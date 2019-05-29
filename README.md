@@ -1,4 +1,4 @@
-Operar con Numeros Complejos
+<h1>Operar con Numeros Complejos</h1>
 
 En este programa se opera (suma,resta,multiplicación y división) con numeros complejos.
 
@@ -16,6 +16,10 @@ Getter y Setter, necesesario relizarlo de los dos atributos. En este ejemplo lo 
 ![GetterySetter](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/getterSetter.JPG)
 
 
-<h2>Metodo para la suma</h2>
+<h2>Métodos</h2>
 
+<h3>Suma</h3>
 
+Este metodo /*sumarComplejos */ lleva a cabo la realización de la suma 
+
+![Metodo Suma](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/suma.JPG)
