@@ -30,4 +30,6 @@ Este metodo /*sumarComplejos */ lleva a cabo la realización de la suma
 
 <h3>2. Resta</h3>
 
-![Metodo Suma](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/resta.JPG)
+Este metodo /*restarComplejos */ lleva a cabo la realización de la suma 
+
+![Metodo Suma](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/restar.JPG)
