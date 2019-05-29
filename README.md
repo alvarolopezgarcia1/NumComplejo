@@ -9,7 +9,7 @@ Utilizaremos 2 atributos, parte real y parte imaginaria.
 ![atributos](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/atributos.JPG)
 
 
-<h2>GetterySetter</h2>
+<h2>Getter  ySetter</h2>
 
 Getter y Setter, necesesario relizarlo de los dos atributos. En este ejemplo lo vemos con la parte real.
 
