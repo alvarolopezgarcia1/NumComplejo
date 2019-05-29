@@ -51,6 +51,8 @@ Constructor con ambos atributos.
 
 <h3>5. Método toString</h3>
 
+Desde este método controlamos como será la salida de nuestro progama.
+
 ![Metodo toString](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/toString.JPG)
 
 
@@ -60,4 +62,7 @@ Constructor con ambos atributos.
 En esta captura podemos ver como desde el programa principal *ProgramaComplejos* llamamos a los diferentes métodos que previamente hemos creado.
 
 
-![Main](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/maim.JPG)
+![Main](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/main.JPG)
+
+
+<h4>Mi curriculum: https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/curriculum.JPG</h4>
