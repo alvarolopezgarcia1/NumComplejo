@@ -24,38 +24,27 @@ Constructor con ambos atributos.
 
 <h2>Métodos</h2>
 
-<h3>1. Suma</h3>
+<h4>Ahora pasaremos a listar los diferentes métodos utilizados para operar con números complejos</h4>
 
-Este metodo *sumarComplejos* lleva a cabo la realización de la suma 
+<h3>1. Suma</h3>
 
 ![Metodo Suma](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/suma.JPG)
 
 <h3>2. Resta</h3>
 
-Este metodo *restarComplejos* lleva a cabo la realización de la resta
-
 ![Metodo Suma](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/restar.JPG)
 
 <h3>3. Multiplicar</h3>
-
-Este metodo *multiplicarComplejos* lleva a cabo la realización de la multiplicación. 
-
+ 
 ![Metodo Resta](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/multiplicar.JPG)
 
-
 <h3>4. Dividir</h3>
-
-Este metodo *dividirComplejos* lleva a cabo la realización de la división,
 
 ![Metodo Dividir](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/dividir.JPG)
 
 <h3>4. Módulo</h3>
 
-Este metodo *moduloComplejos* lleva a cabo la realización del módulo
-
 ![Metodo Módulo](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/modulo.JPG)
-
-<h3>Método ToString</h3>
 
 <h3>5. Método toString</h3>
 
