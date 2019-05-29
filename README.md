@@ -29,11 +29,11 @@ Constructor con ambos atributos.
 
 <h4>Ahora pasaremos a listar los diferentes métodos utilizados para operar con números complejos</h4>
 
-<h3>1. Suma</h3>
+<h3>1. Sumar</h3>
 
 ![Metodo Suma](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/suma.JPG)
 
-<h3>2. Resta</h3>
+<h3>2. Restar</h3>
 
 ![Metodo Suma](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/restar.JPG)
 
