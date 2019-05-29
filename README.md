@@ -22,11 +22,12 @@ Utilizaremos 2 atributos, *parte real y parte imaginaria*.
 
 <h2>Métodos</h2>
 
-<h3>1.Suma</h3>
+<h3>1. Suma</h3>
 
 Este metodo /*sumarComplejos */ lleva a cabo la realización de la suma 
 
 ![Metodo Suma](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/suma.JPG)
 
-<h3>2.Resta</h3>
+<h3>2. Resta</h3>
 
+![Metodo Suma](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/resta.JPG)
