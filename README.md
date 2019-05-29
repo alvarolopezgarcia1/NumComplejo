@@ -1,6 +1,9 @@
 <h1>Operar con Números Complejos</h1>
 
-En este programa se opera *(suma,resta,multiplicación y división)* con números complejos.
+En este programa se opera *(suma,resta,multiplicación y división)* con números complejos. Utilizamos programacion orientada a objetos, por tanto en la clase **NumComplejo** tenemos los atributos y métodos que posteriormente utilizaremos desde nuestro **programa principal.**
+
+
+<h1>Clase NumComplejo</h2>
 
 <h2>Atributos</h2>
 
@@ -49,3 +52,12 @@ Constructor con ambos atributos.
 <h3>5. Método toString</h3>
 
 ![Metodo toString](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/toString.JPG)
+
+
+
+<h1>Programa Principal</h1>
+
+En esta captura podemos ver como desde el programa principal *ProgramaComplejos* llamamos a los diferentes métodos que previamente hemos creado.
+
+
+![Main](https://github.com/alvarolopezgarcia1/NumComplejo/blob/master/Complejos/img/maim.JPG)
